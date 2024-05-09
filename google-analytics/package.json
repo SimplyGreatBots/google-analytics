@@ -1,6 +1,6 @@
 {
   "name": "google_analytics",
-  "integrationName": "simplygreatanalytics/google-analytics",
+  "integrationName": "plus/google-analytics",
   "scripts": {
     "type:check": "tsc --noEmit",
     "version": "bp --version",

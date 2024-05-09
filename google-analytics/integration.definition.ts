@@ -1,11 +1,11 @@
 import { IntegrationDefinition, z } from '@botpress/sdk'
 
 export default new IntegrationDefinition({
-  name: 'simplygreatanalytics/google-analytics',
+  name: 'plus/google-analytics',
   title: "Google Analytics",
   description: 'Track Botpress Analytics events in Google Analytics',
   icon: 'icon.svg',
-  version: '0.2.3',
+  version: '0.2.4',
   readme: 'hub.md',
   configuration: {
     schema: z.object({
